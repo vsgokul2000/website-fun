@@ -1,0 +1,186 @@
+
+
+.header{
+    background-image: url("images/lakmbo.jpg");
+    
+ 
+  height: 93%; 
+
+  /* Center and scale the image nicely */
+   background-position: 50% 10%; 
+   background-repeat: no-repeat; 
+  background-size: cover;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  h1{
+     margin: 30px;
+      font-family: 'Roboto', sans-serif;
+      text-align: left;
+       color: #c5c6c7;
+       padding-top: 100px;
+       margin-right: 10px;
+  }
+.logo{
+padding: 10px;
+
+}
+
+.big{font-family: 'Roboto', sans-serif;
+    font-size: large;
+
+}
+
+.secondheader{
+    margin-top: 300px;
+    color: black;
+}
+
+P{ margin: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+     color: #c5c6c7;
+     padding-top: 20px;
+     margin-right: 10px;
+
+}
+
+.headerbutton{
+    margin: 30px;
+}
+
+ 
+/* #secondpart{
+    padding: 7% 15%;
+   background-image: url(images/backgro.jpe);
+     /* Center and scale the image nicely 
+     background-position: 50% 10%; 
+     background-repeat: no-repeat; 
+    background-size: cover;
+   text-align: center;
+}        
+*/
+
+.car2{
+  width: 30%;
+  border-radius: 120%;
+  margin: 20px;
+  
+}
+
+/* h2{font-family: 'Bree Serif', serif;
+    font-size: 3rem;
+    line-height: 4;
+}*/
+
+#secondpart{
+
+  background-color: #eeeeee;
+  background-repeat: no-repeat; 
+  text-align: center;
+  line-height: 2rem;
+  height: 75%;
+  
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-image{
+margin-left: 350px;
+margin-top: 30px;
+max-width:30%;
+max-height: 30%;
+border-radius: 50%;
+}
+
+.testimonial-text{
+  line-height: 1.5;
+}
+
+/* third section*/
+.card{
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  -webkit-box-shadow: 10px 16px 25px -2px rgba(0,0,0,1);
+  -moz-box-shadow: 10px 16px 25px -2px rgba(0,0,0,1);
+  box-shadow: 10px 16px 25px -2px rgba(0,0,0,1);
+}
+
+.my-row{
+  border: 1px  ;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  
+}
+#flame{
+  
+padding:30px;
+text-align: center;
+background-color: #ffffff;
+/*background-image: url(images/flame.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;*/
+}
+h1{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.inner{
+overflow: hidden;
+}
+.inner img{
+transition: all 1.5s ease;
+}
+.inner:hover img{
+transform: scale(1.5);
+}
+
+/* brand section style*/
+
+.brand{
+  text-align: center;
+  width: 17%;
+  padding: 10px;
+  }
+#brandsection{
+  background-color: #eeeeee;
+  text-align: center;
+  padding-bottom: 30px;
+}
+/* login sectiojn */
+#login{
+        
+  width: 100%;
+  display: table;
+  background-image: url(images/marvel.jpg);  
+  background-size: cover; 
+  height: 80vh;
+
+
+}
+.white{
+color: #c5c6c7;
+size: 10px;
+}
+
+.form-container{
+border: 0px solid #ffffff  ;
+padding: 30px 60px;
+margin-top: 15vh;
+-webkit-box-shadow: -2px 4px 32px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 32px 6px rgba(0,0,0,0.75);
+box-shadow: -2px 4px 32px 6px rgba(0,0,0,0.75);
+
+}
+.margin{
+margin-left: 30px;
+}
