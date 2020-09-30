@@ -38,7 +38,7 @@ padding: 10px;
     color: black;
 }
 
-P{ margin: 30px;
+/*P{ margin: 30px;
     font-family: 'Roboto', sans-serif;
     text-align: left;
      color: #c5c6c7;
@@ -46,6 +46,7 @@ P{ margin: 30px;
      margin-right: 10px;
 
 }
+*/
 
 .headerbutton{
     margin: 30px;
@@ -183,4 +184,19 @@ box-shadow: -2px 4px 32px 6px rgba(0,0,0,0.75);
 }
 .margin{
 margin-left: 30px;
+}
+
+/* LAST SECTION */
+#last{
+        
+  width: 100%;
+  display: table;
+  background-color: #eeeeee;
+  background-size: cover; 
+  height: 50vh;
+ text-align: center;
+
+}
+.icon{
+  padding:7px 10px ;
 }
